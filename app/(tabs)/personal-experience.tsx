@@ -1,6 +1,5 @@
 import { View, Text } from "react-native";
 import React from "react";
-import WebView from "react-native-webview";
 import { useVideoPlayer, VideoView } from "expo-video";
 
 const personalExperience = () => {
